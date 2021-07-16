@@ -1,0 +1,93 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/pic/output.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/pic/output.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/pic/input.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/pic/input.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/debug/mock.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/debug/mock.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/lcd/hd44780.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/lcd/hd44780.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/clock/time.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/clock/time.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/clock/clock.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/clock/clock.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Iinclude",
+            "-DDEBUG_MODE",
+            "-o",
+            "main",
+            "src/pic/18f4520.c"
+        ],
+        "directory": "/home/srashid3/github/embedded-alarm-clock",
+        "file": "src/pic/18f4520.c"
+    }
+]
